@@ -1,1 +1,1 @@
-afdko==4.0.3a1 --no-binary=afdko
+afdko==4.0.3a1
